@@ -1,0 +1,37 @@
+﻿  ColorTransformer.cpp
+C:\Users\tphon\Documents\Learning\HKI_2020_2021\Image_Video_Processing\Lab\Lab1\18127051\18127051\ColorTransformer.cpp(28,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tphon\Documents\Learning\HKI_2020_2021\Image_Video_Processing\Lab\Lab1\18127051\18127051\ColorTransformer.cpp(31,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tphon\Documents\Learning\HKI_2020_2021\Image_Video_Processing\Lab\Lab1\18127051\18127051\ColorTransformer.cpp(65,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tphon\Documents\Learning\HKI_2020_2021\Image_Video_Processing\Lab\Lab1\18127051\18127051\ColorTransformer.cpp(69,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tphon\Documents\Learning\HKI_2020_2021\Image_Video_Processing\Lab\Lab1\18127051\18127051\ColorTransformer.cpp(81,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tphon\Documents\Learning\HKI_2020_2021\Image_Video_Processing\Lab\Lab1\18127051\18127051\ColorTransformer.cpp(101,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tphon\Documents\Learning\HKI_2020_2021\Image_Video_Processing\Lab\Lab1\18127051\18127051\ColorTransformer.cpp(107,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tphon\Documents\Learning\HKI_2020_2021\Image_Video_Processing\Lab\Lab1\18127051\18127051\ColorTransformer.cpp(161,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tphon\Documents\Learning\HKI_2020_2021\Image_Video_Processing\Lab\Lab1\18127051\18127051\ColorTransformer.cpp(163,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tphon\Documents\Learning\HKI_2020_2021\Image_Video_Processing\Lab\Lab1\18127051\18127051\ColorTransformer.cpp(167,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tphon\Documents\Learning\HKI_2020_2021\Image_Video_Processing\Lab\Lab1\18127051\18127051\ColorTransformer.cpp(183,17): warning C4244: '=': conversion from 'double' to 'uchar', possible loss of data
+C:\Users\tphon\Documents\Learning\HKI_2020_2021\Image_Video_Processing\Lab\Lab1\18127051\18127051\ColorTransformer.cpp(192,23): warning C4244: '=': conversion from 'double' to 'uchar', possible loss of data
+C:\Users\tphon\Documents\Learning\HKI_2020_2021\Image_Video_Processing\Lab\Lab1\18127051\18127051\ColorTransformer.cpp(205,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tphon\Documents\Learning\HKI_2020_2021\Image_Video_Processing\Lab\Lab1\18127051\18127051\ColorTransformer.cpp(208,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tphon\Documents\Learning\HKI_2020_2021\Image_Video_Processing\Lab\Lab1\18127051\18127051\ColorTransformer.cpp(214,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tphon\Documents\Learning\HKI_2020_2021\Image_Video_Processing\Lab\Lab1\18127051\18127051\ColorTransformer.cpp(254,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tphon\Documents\Learning\HKI_2020_2021\Image_Video_Processing\Lab\Lab1\18127051\18127051\ColorTransformer.cpp(259,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tphon\Documents\Learning\HKI_2020_2021\Image_Video_Processing\Lab\Lab1\18127051\18127051\ColorTransformer.cpp(277,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\tphon\Documents\Learning\HKI_2020_2021\Image_Video_Processing\Lab\Lab1\18127051\18127051\ColorTransformer.cpp(367,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\tphon\Documents\Learning\HKI_2020_2021\Image_Video_Processing\Lab\Lab1\18127051\18127051\ColorTransformer.cpp(370,40): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+  Converter.cpp
+C:\Users\tphon\Documents\Learning\HKI_2020_2021\Image_Video_Processing\Lab\Lab1\18127051\18127051\Converter.cpp(20,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tphon\Documents\Learning\HKI_2020_2021\Image_Video_Processing\Lab\Lab1\18127051\18127051\Converter.cpp(24,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tphon\Documents\Learning\HKI_2020_2021\Image_Video_Processing\Lab\Lab1\18127051\18127051\Converter.cpp(33,43): warning C4244: '=': conversion from 'double' to 'uchar', possible loss of data
+C:\Users\tphon\Documents\Learning\HKI_2020_2021\Image_Video_Processing\Lab\Lab1\18127051\18127051\Converter.cpp(64,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tphon\Documents\Learning\HKI_2020_2021\Image_Video_Processing\Lab\Lab1\18127051\18127051\Converter.cpp(68,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tphon\Documents\Learning\HKI_2020_2021\Image_Video_Processing\Lab\Lab1\18127051\18127051\Converter.cpp(106,12): warning C4244: '=': conversion from 'double' to 'uchar', possible loss of data
+C:\Users\tphon\Documents\Learning\HKI_2020_2021\Image_Video_Processing\Lab\Lab1\18127051\18127051\Converter.cpp(107,13): warning C4244: '=': conversion from 'double' to 'uchar', possible loss of data
+C:\Users\tphon\Documents\Learning\HKI_2020_2021\Image_Video_Processing\Lab\Lab1\18127051\18127051\Converter.cpp(108,13): warning C4244: '=': conversion from 'double' to 'uchar', possible loss of data
+  main.cpp
+  Generating Code...
+  18127051.vcxproj -> C:\Users\tphon\Documents\Learning\HKI_2020_2021\Image_Video_Processing\Lab\Lab1\18127051\x64\Debug\18127051.exe
